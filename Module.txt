@@ -1,0 +1,13 @@
+Name: Associativy Web Services
+AntiForgery: enabled
+Author: Piedone
+Website: http://orchardproject.net
+Version: 1.0
+OrchardVersion: 1.3
+Description: Associativy Web Services
+Features:
+	Associativy.WebServices:
+		Name: Associativy Web Services
+        Description: Associativy Web Services
+		Category: Associativy
+		Dependencies: Associativy
